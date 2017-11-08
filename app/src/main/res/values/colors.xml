@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6B1A9E</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#e49f22</color>
+
+    <!--Defining the colours as per assignment-->
+
+    <color name="colorApp">#4C312A</color>
+
+    <color name="colorTakePic">#6b1a9e</color>
+
+    <color name="colorToGallery">#68efad</color>
+
+    <color name="colorSendMail">#E49F22</color>
+
+    <color name="colorGetMail">#F16192</color>
+
+    <color name="sendButton">#764BEE</color>
+
+
+</resources>

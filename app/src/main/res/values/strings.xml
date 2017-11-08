@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Form</string>
+    <string name="display">Display</string>
+    <string name="app_name">Assign2: Ciara Coadyo</string>
+
+    <!--Strings for Email Activity-->
+
+    <string name="name">To:</string>
+    <string name="age">Subject:</string>
+    <string name="message">Message:</string>
+
+    <!--Send Button for Email-->
+
+    <string name="submit">Send</string>
+
+
+    <!--Assigning Values for Buttons-->
+
+    <string name="bttn1">Implicit Intent: Open Camera</string>
+
+    <string name="bttn2">Implicit Intent: View Picture</string>
+
+    <string name="bttn3">Explicit Intent : Call Activity</string>
+
+
+    <string name="textView4">Explicit Intent: Retrieve Gallery</string>
+
+</resources>
